@@ -1,6 +1,6 @@
 # zshrc
 my zshrc person
 
-basta personalizar como quer
+Basta personalizar como quer :D
 
-![](https://imgur.com/ZRe8eC4)
+![](https://i.imgur.com/2GplzMi.png)
